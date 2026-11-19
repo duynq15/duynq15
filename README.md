@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/Email-quangduy15hp07%40gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/GitHub-duynq15-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b><a href="https://xuantrach.langso.vn">Làng Số — Smart Village</a></b><br/>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — Smart Village</a></b><br/>
   <sub>Digital governance platform for villages: households &amp; residents, digital map, multi-channel announcements, surveys, AI assistant. Piloted in Xuân Trạch with 412 households / 1,586 residents.</sub><br/>
   <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>React</code> <code>Docker</code></sub>
 </td>
@@ -61,8 +61,8 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://xuantrach.langso.vn"><img src="assets/cover-langso-en.svg" width="100%" alt="Làng Số — Smart Village" /></a>
-  <b>Làng Số — Smart Village</b><br/>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="assets/cover-langso-en.svg" width="100%" alt="Làng Số — Smart Village" /></a>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — Smart Village</a></b><br/>
   <sub>11 modules for local government. AI drafts announcements, generates surveys, and answers with cited semantic search; role-based access and Row-Level Security.</sub><br/>
   <sub><code>FastAPI</code> <code>PostGIS</code> <code>React 19</code></sub>
 </td>
@@ -82,7 +82,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/khai-thac-du-lieu"><img src="assets/cover-data-en.svg" width="100%" alt="Commune Data" /></a>
-  <b>Commune Data — Vietnam</b><br/>
+  <b><a href="https://github.com/duynq15/khai-thac-du-lieu">Commune Data — Vietnam</a></b><br/>
   <sub>Collected 34 provinces and 3,321 communes; combined deterministic rules with LLM extraction; verified administrative codes, coordinates and citations before handover.</sub><br/>
   <sub><code>Python</code> <code>Ollama</code> <code>SQLite</code></sub>
 </td>
@@ -90,13 +90,13 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/pos-shop-saas"><img src="assets/cover-pos-en.svg" width="100%" alt="POS Shop SaaS" /></a>
-  <b>POS Shop SaaS</b><br/>
+  <b><a href="https://github.com/duynq15/pos-shop-saas">POS Shop SaaS</a></b><br/>
   <sub>Multi-store POS &amp; inventory SaaS: multi-tenant architecture, 7 roles, server-side cost hiding, VietQR, promotions and unit conversion.</sub><br/>
   <sub><code>Node.js</code> <code>SQLite</code> <code>VietQR</code></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/ai-video-studio"><img src="assets/cover-aivideo-en.svg" width="100%" alt="AI Video Studio" /></a>
-  <b>AI Video Studio</b><br/>
+  <b><a href="https://github.com/duynq15/ai-video-studio">AI Video Studio</a></b><br/>
   <sub>9:16 short-video pipeline from articles/text: script, local Vietnamese TTS, composition with HyperFrames/Remotion + GSAP.</sub><br/>
   <sub><code>TypeScript</code> <code>TTS</code> <code>Remotion</code></sub>
 </td>
@@ -156,7 +156,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/SEND%20EMAIL-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/VIEW%20L%C3%80NG%20S%E1%BB%90-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/VIEW%20L%C3%80NG%20S%E1%BB%90-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>

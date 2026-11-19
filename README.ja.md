@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/Email-quangduy15hp07%40gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/GitHub-duynq15-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b><a href="https://xuantrach.langso.vn">Làng Số — スマートビレッジ</a></b><br/>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — スマートビレッジ</a></b><br/>
   <sub>村・街区向けデジタル行政基盤：世帯・住民、デジタル地図、多チャネル通知、アンケート、AIアシスタント。Xuân Trạchで412世帯・1,586人を対象に実証実験。</sub><br/>
   <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>React</code> <code>Docker</code></sub>
 </td>
@@ -61,8 +61,8 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://xuantrach.langso.vn"><img src="assets/cover-langso-ja.svg" width="100%" alt="Làng Số — スマートビレッジ" /></a>
-  <b>Làng Số — スマートビレッジ</b><br/>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="assets/cover-langso-ja.svg" width="100%" alt="Làng Số — スマートビレッジ" /></a>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — スマートビレッジ</a></b><br/>
   <sub>自治体向け11モジュール。AIによる通知作成、アンケート生成、根拠付きセマンティック検索、ロールベース制御とRow-Level Security。</sub><br/>
   <sub><code>FastAPI</code> <code>PostGIS</code> <code>React 19</code></sub>
 </td>
@@ -82,7 +82,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/khai-thac-du-lieu"><img src="assets/cover-data-ja.svg" width="100%" alt="自治体データ" /></a>
-  <b>自治体データ — ベトナム</b><br/>
+  <b><a href="https://github.com/duynq15/khai-thac-du-lieu">自治体データ — ベトナム</a></b><br/>
   <sub>34省・3,321行政区のデータを収集。決定論的ルールとLLM抽出を組み合わせ、行政コード、座標、引用を検証して納品。</sub><br/>
   <sub><code>Python</code> <code>Ollama</code> <code>SQLite</code></sub>
 </td>
@@ -90,13 +90,13 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/pos-shop-saas"><img src="assets/cover-pos-ja.svg" width="100%" alt="POS Shop SaaS" /></a>
-  <b>POS Shop SaaS</b><br/>
+  <b><a href="https://github.com/duynq15/pos-shop-saas">POS Shop SaaS</a></b><br/>
   <sub>マルチストアPOS・在庫管理SaaS：マルチテナント、7ロール、サーバー側での原価非表示、VietQR、プロモーション、単位換算。</sub><br/>
   <sub><code>Node.js</code> <code>SQLite</code> <code>VietQR</code></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/ai-video-studio"><img src="assets/cover-aivideo-ja.svg" width="100%" alt="AI Video Studio" /></a>
-  <b>AI Video Studio</b><br/>
+  <b><a href="https://github.com/duynq15/ai-video-studio">AI Video Studio</a></b><br/>
   <sub>記事・テキストから9:16ショート動画を生成：台本、ベトナム語ローカルTTS、HyperFrames/Remotion + GSAPで構成。</sub><br/>
   <sub><code>TypeScript</code> <code>TTS</code> <code>Remotion</code></sub>
 </td>
@@ -156,7 +156,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/L%C3%80NG%20S%E1%BB%90-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/L%C3%80NG%20S%E1%BB%90-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>

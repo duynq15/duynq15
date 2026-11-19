@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/Email-quangduy15hp07%40gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/GitHub-duynq15-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/Live-L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b><a href="https://xuantrach.langso.vn">Làng Số — Thôn Thông Minh</a></b><br/>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — Thôn Thông Minh</a></b><br/>
   <sub>Nền tảng quản trị số cho thôn/tổ dân phố: hộ &amp; nhân khẩu, bản đồ số, thông báo đa kênh, khảo sát, trợ lý AI. Thí điểm tại Thôn Xuân Trạch với 412 hộ / 1.586 nhân khẩu.</sub><br/>
   <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>React</code> <code>Docker</code></sub>
 </td>
@@ -61,8 +61,8 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://xuantrach.langso.vn"><img src="assets/cover-langso.svg" width="100%" alt="Làng Số — Thôn Thông Minh" /></a>
-  <b>Làng Số — Thôn Thông Minh</b><br/>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="assets/cover-langso.svg" width="100%" alt="Làng Số — Thôn Thông Minh" /></a>
+  <b><a href="https://langso.xaphuongvietnam.vn">Làng Số — Thôn Thông Minh</a></b><br/>
   <sub>11 mô-đun cho chính quyền cơ sở. AI soạn thông báo, tạo khảo sát, tìm kiếm ngữ nghĩa có trích dẫn nguồn; phân quyền theo xóm và Row-Level Security.</sub><br/>
   <sub><code>FastAPI</code> <code>PostGIS</code> <code>React 19</code></sub>
 </td>
@@ -82,7 +82,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/khai-thac-du-lieu"><img src="assets/cover-data.svg" width="100%" alt="Khai thác dữ liệu Xã Phường" /></a>
-  <b>Khai thác dữ liệu Xã Phường</b><br/>
+  <b><a href="https://github.com/duynq15/khai-thac-du-lieu">Khai thác dữ liệu Xã Phường</a></b><br/>
   <sub>Thu thập 34 tỉnh/thành và 3.321 xã/phường; kết hợp quy tắc tất định với LLM trích xuất, kiểm chứng mã ĐVHC, tọa độ và trích dẫn trước khi bàn giao.</sub><br/>
   <sub><code>Python</code> <code>Ollama</code> <code>SQLite</code></sub>
 </td>
@@ -90,13 +90,13 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/pos-shop-saas"><img src="assets/cover-pos.svg" width="100%" alt="POS Shop SaaS" /></a>
-  <b>POS Shop SaaS</b><br/>
+  <b><a href="https://github.com/duynq15/pos-shop-saas">POS Shop SaaS</a></b><br/>
   <sub>Phần mềm bán hàng &amp; quản lý kho đa cửa hàng: kiến trúc đa tenant, 7 vai trò, ẩn giá vốn phía server, VietQR, khuyến mãi và quy đổi đơn vị.</sub><br/>
   <sub><code>Node.js</code> <code>SQLite</code> <code>VietQR</code></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/duynq15/ai-video-studio"><img src="assets/cover-aivideo.svg" width="100%" alt="AI Video Studio" /></a>
-  <b>AI Video Studio</b><br/>
+  <b><a href="https://github.com/duynq15/ai-video-studio">AI Video Studio</a></b><br/>
   <sub>Pipeline tạo video ngắn 9:16 từ bài báo/văn bản: kịch bản, TTS tiếng Việt local, dựng hình bằng HyperFrames/Remotion + GSAP.</sub><br/>
   <sub><code>TypeScript</code> <code>TTS</code> <code>Remotion</code></sub>
 </td>
@@ -156,7 +156,7 @@
 <div align="center">
   <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/G%E1%BB%ADi%20email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
   <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/Xem%20GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/Xem%20L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="https://langso.xaphuongvietnam.vn"><img src="https://img.shields.io/badge/Xem%20L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>
