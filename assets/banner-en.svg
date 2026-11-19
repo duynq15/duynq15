@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="t d">
+<title id="t">Nguyễn Quang Duy — AI Applications Engineer</title>
+<desc id="d">Banner giới thiệu Nguyễn Quang Duy, kỹ sư AI Applications tại Hà Nội.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050d18"/>
+    <stop offset=".52" stop-color="#0b1f3a"/>
+    <stop offset="1" stop-color="#0d2b40"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".38"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#0e7490" stop-opacity=".5"/>
+    <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orb" cx=".35" cy=".3" r=".8">
+    <stop offset="0" stop-color="#e0fbff"/>
+    <stop offset=".35" stop-color="#22d3ee"/>
+    <stop offset="1" stop-color="#0e7490"/>
+  </radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/>
+    <stop offset=".55" stop-color="#0e7490"/>
+    <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#9fd8e8" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+  <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+  <clipPath id="clip"><rect width="1280" height="420" rx="0"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="60" rx="360" ry="240" fill="url(#glowA)"/>
+  <ellipse cx="760" cy="420" rx="420" ry="220" fill="url(#glowB)" opacity=".55"/>
+  <circle cx="1200" cy="380" r="150" fill="#22d3ee" opacity=".06" filter="url(#soft)"/>
+
+  <!-- eyebrow -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="86" fill="#22d3ee" font-size="12" font-weight="700" letter-spacing="4.2">PORTFOLIO — 2026</text>
+    <rect x="64" y="100" width="52" height="2" fill="#22d3ee" opacity=".8"/>
+  </g>
+
+  <!-- name / role / tagline -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="62" y="196" fill="#ffffff" font-size="57" font-weight="800" letter-spacing="1.2">NGUYỄN QUANG DUY</text>
+    <text x="64" y="234" fill="#8fe3ef" font-size="15" font-weight="600" letter-spacing="6.4">AI APPLICATIONS ENGINEER</text>
+    <text x="64" y="272" fill="#b9c9d9" font-size="17" font-weight="400">From data and models to AI products that run in production.</text>
+  </g>
+
+  <!-- stats -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="337" fill="#ffffff" font-size="21" font-weight="800">1.131</text>
+    <text x="64" y="354" fill="#8fa3b8" font-size="10.5" letter-spacing=".6">COMMITS · 21 REPOS</text>
+    <line x1="214" y1="318" x2="214" y2="354" stroke="#2b4a63" stroke-width="1"/>
+    <text x="240" y="337" fill="#ffffff" font-size="21" font-weight="800">412</text>
+    <text x="240" y="354" fill="#8fa3b8" font-size="10.5" letter-spacing=".6">HOUSEHOLDS · 1,586 PEOPLE</text>
+    <line x1="410" y1="318" x2="410" y2="354" stroke="#2b4a63" stroke-width="1"/>
+    <text x="436" y="337" fill="#ffffff" font-size="21" font-weight="800">3.321</text>
+    <text x="436" y="354" fill="#8fa3b8" font-size="10.5" letter-spacing=".6">COMMUNES MAPPED</text>
+  </g>
+
+  <!-- AI core -->
+  <g>
+    <circle cx="1000" cy="205" r="130" fill="none" stroke="#22d3ee" stroke-opacity=".14" stroke-width="1"/>
+    <circle cx="1000" cy="205" r="128" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-width="1.4" stroke-dasharray="3 9">
+      <animateTransform attributeName="transform" type="rotate" from="0 1000 205" to="360 1000 205" dur="42s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="205" r="92" fill="none" stroke="#22d3ee" stroke-opacity=".2" stroke-width="1"/>
+    <circle cx="1000" cy="205" r="56" fill="none" stroke="#8fe3ef" stroke-opacity=".4" stroke-width="1.2"/>
+
+    <circle cx="1000" cy="205" r="22" fill="url(#orb)"/>
+    <circle cx="1000" cy="205" r="38" fill="none" stroke="#22d3ee" stroke-opacity=".45" stroke-width="1">
+      <animate attributeName="r" values="34;44;34" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".55;.12;.55" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- connections -->
+    <g stroke="#22d3ee" stroke-opacity=".28" stroke-width="1">
+      <path d="M1000 149 L1000 74"/>
+      <path d="M1056 205 L1140 205"/>
+      <path d="M1000 261 L1000 330"/>
+      <path d="M944 205 L868 152"/>
+      <path d="M1052 153 L1110 120"/>
+      <path d="M1052 257 L1110 290"/>
+      <path d="M948 153 L892 120"/>
+    </g>
+    <g>
+      <circle cx="1000" cy="72" r="4.2" fill="#22d3ee"/>
+      <circle cx="1142" cy="205" r="4.2" fill="#22d3ee"/>
+      <circle cx="1000" cy="332" r="4.2" fill="#22d3ee"/>
+      <circle cx="866" cy="150" r="4.2" fill="#8fe3ef"/>
+      <circle cx="1112" cy="118" r="3.4" fill="#8fe3ef" opacity=".8"/>
+      <circle cx="1112" cy="292" r="3.4" fill="#8fe3ef" opacity=".8"/>
+      <circle cx="890" cy="118" r="3.4" fill="#8fe3ef" opacity=".7"/>
+    </g>
+    <g font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="10" fill="#8fe3ef" letter-spacing="1">
+      <text x="984" y="56">LLM</text>
+      <text x="1152" y="209">RAG</text>
+      <text x="982" y="360">OCR</text>
+      <text x="818" y="142">STT</text>
+    </g>
+    <g fill="#22d3ee">
+      <circle cx="1180" cy="90" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="840" cy="300" r="2"><animate attributeName="opacity" values="1;.2;1" dur="4.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1200" cy="300" r="1.6"><animate attributeName="opacity" values=".3;.9;.3" dur="5.2s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- bottom accent -->
+  <rect x="0" y="417" width="1280" height="3" fill="url(#line)"/>
+</g>
+</svg>

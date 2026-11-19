@@ -1,3 +1,7 @@
+<p align="center">
+  <b>Tiếng Việt</b> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a>
+</p>
+
 <div align="center">
   <img src="assets/banner.svg" alt="Nguyễn Quang Duy — AI Applications Engineer" width="100%" />
 </div>

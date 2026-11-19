@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="t d">
+<title id="t">GIA PHẢ AUTO — 家譜作成の自動化</title>
+<desc id="d">PYTHON · LARAVEL · SVG</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071423"/>
+    <stop offset=".55" stop-color="#0b1f3a"/>
+    <stop offset="1" stop-color="#0d2b40"/>
+  </linearGradient>
+  <radialGradient id="g1" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#34d399" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#047857" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#047857" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#9fd8e8" stroke-opacity=".06" stroke-width="1"/>
+  </pattern>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="640" height="300" fill="url(#bg)"/>
+<rect width="640" height="300" fill="url(#grid)"/>
+<ellipse cx="540" cy="80" rx="210" ry="170" fill="url(#g1)"/>
+<ellipse cx="420" cy="300" rx="250" ry="150" fill="url(#g2)" opacity=".5"/>
+<circle cx="620" cy="250" r="90" fill="#34d399" opacity=".08" filter="url(#blur)"/>
+
+<g font-family="'Segoe UI', 'Hiragino Sans', 'Yu Gothic', 'Noto Sans JP', Arial, sans-serif">
+  <text x="40" y="52" fill="#34d399" font-size="10" font-weight="700" letter-spacing="3.2">PROJECT / 03</text>
+  <rect x="40" y="64" width="34" height="2" fill="#34d399" opacity=".85"/>
+  <text x="40" y="180" fill="#ffffff" font-size="31" font-weight="800" letter-spacing=".4">GIA PHẢ AUTO</text>
+  <text x="40" y="210" fill="#b9c9d9" font-size="13.5" font-weight="400">家譜作成の自動化</text>
+  <text x="40" y="262" fill="#34d399" font-size="9.5" font-weight="600" letter-spacing="1.9" font-family="'DejaVu Sans Mono', Consolas, monospace">PYTHON · LARAVEL · SVG</text>
+</g>
+
+<g transform="translate(452 148)">
+  <circle cx="0" cy="0" r="96" fill="none" stroke="#34d399" stroke-opacity=".18" stroke-width="1"/>
+  <circle cx="0" cy="0" r="96" fill="none" stroke="#34d399" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 7">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+  </circle>
+  <g stroke="#34d399" stroke-opacity=".65" fill="none" stroke-width="1.4">
+  <path d="M0 -58 V-22 M0 -22 H-46 V6 M0 -22 H46 V6"/>
+  <path d="M-46 6 V36 M-46 22 H-72 V42"/>
+  <path d="M46 6 V36 M46 22 H72 V42"/>
+</g>
+<g fill="#0b1f3a" stroke="#34d399" stroke-width="2.2">
+  <circle cx="0" cy="-62" r="9"/><circle cx="-46" cy="10" r="8"/><circle cx="46" cy="10" r="8"/>
+  <circle cx="-72" cy="46" r="7"/><circle cx="-46" cy="40" r="7"/><circle cx="72" cy="46" r="7"/><circle cx="46" cy="40" r="7"/>
+</g>
+<circle cx="0" cy="-62" r="3" fill="#34d399"/>
+<text x="-62" y="82" fill="#6ee7b7" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="8" letter-spacing="1">GRAPH · NLG · SVG</text>
+</g>
+<rect x="0" y="297" width="640" height="3" fill="#34d399" opacity=".85"/>
+</svg>
