@@ -1,9 +1,9 @@
 <p align="center">
-  <b>Tiếng Việt</b> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a>
+  <b>English</b> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.ja.md">日本語</a>
 </p>
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Nguyễn Quang Duy — AI Applications Engineer" width="100%" />
+  <img src="assets/banner-en.svg" alt="Nguyễn Quang Duy — AI Applications Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -21,83 +21,83 @@
   <br/><br/>
   <b>Nguyễn Quang Duy</b><br/>
   <sub>AI Applications Engineer</sub><br/>
-  <sub>Hà Nội, Việt Nam</sub>
+  <sub>Hanoi, Vietnam</sub>
   <br/><br/>
   <img src="https://img.shields.io/badge/OPEN%20TO-AI%20ENGINEER%20ROLES-0E7490?style=flat-square" alt="Open to AI Engineer roles" />
 </td>
 <td width="68%" valign="top">
-  <h3>Xin chào, mình là Duy.</h3>
-  <p>Kỹ sư Công nghệ thông tin (Đại học Bách khoa Hà Nội, chương trình Việt–Nhật). Mình xây dựng sản phẩm AI ứng dụng cho chính quyền cơ sở, doanh nghiệp và hộ kinh doanh — từ đặc tả, dữ liệu, mô hình đến triển khai vận hành.</p>
-  <p>Mình tin một sản phẩm AI tốt phải <b>trả lời được số liệu thật</b>, <b>không đánh đổi dữ liệu cá nhân</b> và <b>chạy được ngoài môi trường demo</b>. Vì vậy phần lớn thời gian mình làm việc với tool-calling, RAG, OCR/STT, AI gateway tự host và các lớp kiểm chứng dữ liệu.</p>
+  <h3>Hi, I'm Duy.</h3>
+  <p>Information Technology engineer (Hanoi University of Science and Technology, Vietnam–Japan program). I build applied AI products for local governments, businesses, and small retailers — from requirements and data to models and production operations.</p>
+  <p>I believe a good AI product must <b>answer with real data</b>, <b>never trade away personal data</b>, and <b>run outside a demo</b>. That is why I spend most of my time with tool-calling, RAG, OCR/STT, self-hosted AI gateways, and data verification layers.</p>
   <p>
-    <b>Đang xây</b> · Làng Số — nền tảng quản trị số cho thôn/tổ dân phố<br/>
-    <b>Tập trung</b> · Tool-calling · RAG · OCR/STT · PII guardrails<br/>
-    <b>Đang học</b> · AI Engineering theo chuẩn SFIA<br/>
-    <b>Mở cho</b> · AI Applications / AI Engineer
+    <b>Building</b> · Làng Số — digital governance platform for villages<br/>
+    <b>Focus</b> · Tool-calling · RAG · OCR/STT · PII guardrails<br/>
+    <b>Learning</b> · AI Engineering (SFIA)<br/>
+    <b>Open to</b> · AI Applications / AI Engineer
   </p>
 </td>
 </tr>
 </table>
 
-## 01 — Điều mình đang xây
+## 01 — What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b><a href="https://xuantrach.langso.vn">Làng Số — Thôn Thông Minh</a></b><br/>
-  <sub>Nền tảng quản trị số cho thôn/tổ dân phố: hộ &amp; nhân khẩu, bản đồ số, thông báo đa kênh, khảo sát, trợ lý AI. Thí điểm tại Thôn Xuân Trạch với 412 hộ / 1.586 nhân khẩu.</sub><br/>
+  <b><a href="https://xuantrach.langso.vn">Làng Số — Smart Village</a></b><br/>
+  <sub>Digital governance platform for villages: households &amp; residents, digital map, multi-channel announcements, surveys, AI assistant. Piloted in Xuân Trạch with 412 households / 1,586 residents.</sub><br/>
   <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>React</code> <code>Docker</code></sub>
 </td>
 <td width="50%" valign="top">
   <b>Digitization Hub</b><br/>
-  <sub>Hệ thống số hóa tư liệu audio/ảnh/video: STT tiếng Việt, OCR, xử lý ảnh chat Zalo, tìm kiếm toàn văn và xuất dữ liệu. Quản lý nhiều provider AI và hạn mức.</sub><br/>
+  <sub>Audio/image/video digitization system: Vietnamese STT, OCR, Zalo chat image processing, full-text search and exports. Multi-provider AI with quota management.</sub><br/>
   <sub><code>faster-whisper</code> <code>PaddleOCR</code> <code>VietOCR</code> <code>Laravel</code></sub>
 </td>
 </tr>
 </table>
 
-## 02 — Dự án tiêu biểu
+## 02 — Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://xuantrach.langso.vn"><img src="assets/cover-langso.svg" width="100%" alt="Làng Số — Thôn Thông Minh" /></a>
-  <b>Làng Số — Thôn Thông Minh</b><br/>
-  <sub>11 mô-đun cho chính quyền cơ sở. AI soạn thông báo, tạo khảo sát, tìm kiếm ngữ nghĩa có trích dẫn nguồn; phân quyền theo xóm và Row-Level Security.</sub><br/>
+  <a href="https://xuantrach.langso.vn"><img src="assets/cover-langso-en.svg" width="100%" alt="Làng Số — Smart Village" /></a>
+  <b>Làng Số — Smart Village</b><br/>
+  <sub>11 modules for local government. AI drafts announcements, generates surveys, and answers with cited semantic search; role-based access and Row-Level Security.</sub><br/>
   <sub><code>FastAPI</code> <code>PostGIS</code> <code>React 19</code></sub>
 </td>
 <td width="50%" valign="top">
-  <img src="assets/cover-digitization.svg" width="100%" alt="Digitization Hub" />
+  <img src="assets/cover-digitization-en.svg" width="100%" alt="Digitization Hub" />
   <b>Digitization Hub</b><br/>
-  <sub>Pipeline số hóa đa phương tiện: tách audio, STT tiếng Việt, OCR, xử lý ảnh chat Zalo, tìm kiếm toàn văn. RBAC theo bộ sưu tập và nhật ký vòng đời tư liệu.</sub><br/>
+  <sub>Multimedia digitization pipeline: audio extraction, Vietnamese STT, OCR, Zalo chat image processing, full-text search. Collection-level RBAC and asset lifecycle logs.</sub><br/>
   <sub><code>Python</code> <code>Whisper</code> <code>OCR</code> <code>Laravel</code></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="assets/cover-giapha.svg" width="100%" alt="Gia phả Auto" />
-  <b>Gia phả Auto — ĐATN HUST</b><br/>
-  <sub>Mô hình hóa phả hệ bằng đồ thị quan hệ, rule-based NLG sinh tiểu sử, dựng phả đồ SVG và pipeline 8 bước xuất sách Word/PDF.</sub><br/>
+  <img src="assets/cover-giapha-en.svg" width="100%" alt="Gia phả Auto" />
+  <b>Gia phả Auto — HUST thesis</b><br/>
+  <sub>Genealogy modeled as a relational graph, rule-based NLG for biographies, SVG family trees, and an 8-step Word/PDF book pipeline.</sub><br/>
   <sub><code>Python</code> <code>FastAPI</code> <code>Laravel</code> <code>SVG</code></sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/duynq15/khai-thac-du-lieu"><img src="assets/cover-data.svg" width="100%" alt="Khai thác dữ liệu Xã Phường" /></a>
-  <b>Khai thác dữ liệu Xã Phường</b><br/>
-  <sub>Thu thập 34 tỉnh/thành và 3.321 xã/phường; kết hợp quy tắc tất định với LLM trích xuất, kiểm chứng mã ĐVHC, tọa độ và trích dẫn trước khi bàn giao.</sub><br/>
+  <a href="https://github.com/duynq15/khai-thac-du-lieu"><img src="assets/cover-data-en.svg" width="100%" alt="Commune Data" /></a>
+  <b>Commune Data — Vietnam</b><br/>
+  <sub>Collected 34 provinces and 3,321 communes; combined deterministic rules with LLM extraction; verified administrative codes, coordinates and citations before handover.</sub><br/>
   <sub><code>Python</code> <code>Ollama</code> <code>SQLite</code></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/duynq15/pos-shop-saas"><img src="assets/cover-pos.svg" width="100%" alt="POS Shop SaaS" /></a>
+  <a href="https://github.com/duynq15/pos-shop-saas"><img src="assets/cover-pos-en.svg" width="100%" alt="POS Shop SaaS" /></a>
   <b>POS Shop SaaS</b><br/>
-  <sub>Phần mềm bán hàng &amp; quản lý kho đa cửa hàng: kiến trúc đa tenant, 7 vai trò, ẩn giá vốn phía server, VietQR, khuyến mãi và quy đổi đơn vị.</sub><br/>
+  <sub>Multi-store POS &amp; inventory SaaS: multi-tenant architecture, 7 roles, server-side cost hiding, VietQR, promotions and unit conversion.</sub><br/>
   <sub><code>Node.js</code> <code>SQLite</code> <code>VietQR</code></sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/duynq15/ai-video-studio"><img src="assets/cover-aivideo.svg" width="100%" alt="AI Video Studio" /></a>
+  <a href="https://github.com/duynq15/ai-video-studio"><img src="assets/cover-aivideo-en.svg" width="100%" alt="AI Video Studio" /></a>
   <b>AI Video Studio</b><br/>
-  <sub>Pipeline tạo video ngắn 9:16 từ bài báo/văn bản: kịch bản, TTS tiếng Việt local, dựng hình bằng HyperFrames/Remotion + GSAP.</sub><br/>
+  <sub>9:16 short-video pipeline from articles/text: script, local Vietnamese TTS, composition with HyperFrames/Remotion + GSAP.</sub><br/>
   <sub><code>TypeScript</code> <code>TTS</code> <code>Remotion</code></sub>
 </td>
 </tr>
@@ -126,41 +126,41 @@
   <sub>React 19 · TypeScript<br/>Vue 3 · Inertia<br/>Tailwind CSS<br/>shadcn/ui<br/>Vite<br/>Responsive &amp; accessible</sub>
 </td>
 <td width="25%" valign="top">
-  <b>Dữ liệu &amp; vận hành</b><br/>
-  <sub>pandas · SQL<br/>Crawling / scraping<br/>Pipeline kiểm chứng<br/>GitHub Actions<br/>Linux · Nginx · Caddy<br/>Logging &amp; đánh giá</sub>
+  <b>Data &amp; Ops</b><br/>
+  <sub>pandas · SQL<br/>Crawling / scraping<br/>Verification pipelines<br/>GitHub Actions<br/>Linux · Nginx · Caddy<br/>Logging &amp; evaluation</sub>
 </td>
 </tr>
 </table>
 
-## 04 — Cách mình làm việc
+## 04 — How I work
 
 <table>
 <tr>
 <td width="33%" valign="top">
-  <b>01 · Số liệu phải truy vết được</b><br/>
-  <sub>Mô hình không tự viết SQL hay bịa con số. AI chọn công cụ, API truy vấn dữ liệu thật và trả về nguồn để kiểm chứng.</sub>
+  <b>01 · Numbers must be traceable</b><br/>
+  <sub>The model never writes SQL or invents numbers. AI selects a tool, the API queries real data, and every answer links back to a source.</sub>
 </td>
 <td width="33%" valign="top">
-  <b>02 · Không đánh đổi dữ liệu cá nhân</b><br/>
-  <sub>Ưu tiên self-host, chặn PII ra mô hình mây, phân quyền theo vai trò và Row-Level Security cho dữ liệu nhạy cảm.</sub>
+  <b>02 · Never trade personal data</b><br/>
+  <sub>Self-hosting first, PII blocked from cloud models, role-based access and Row-Level Security for sensitive data.</sub>
 </td>
 <td width="33%" valign="top">
-  <b>03 · Chạy thật mới tính</b><br/>
-  <sub>Từ đặc tả đến triển khai, có người dùng, có vận hành và có đo lường. Prototype chỉ là bước đầu, không phải đích.</sub>
+  <b>03 · Production is the bar</b><br/>
+  <sub>From specification to deployment, with real users, operations, and measurement. A prototype is the start, not the finish line.</sub>
 </td>
 </tr>
 </table>
 
-## 05 — Kết nối
+## 05 — Connect
 
 <div align="center">
-  <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/G%E1%BB%ADi%20email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
-  <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/Xem%20GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/Xem%20L%C3%A0ng%20S%E1%BB%91-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
+  <a href="mailto:quangduy15hp07@gmail.com"><img src="https://img.shields.io/badge/SEND%20EMAIL-0B1F3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://github.com/duynq15"><img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+  <a href="https://xuantrach.langso.vn"><img src="https://img.shields.io/badge/VIEW%20L%C3%80NG%20S%E1%BB%90-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Làng Số" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Built with care in Hà Nội · 2026</sub>
+  <sub>Built with care in Hanoi · 2026</sub>
 </div>
