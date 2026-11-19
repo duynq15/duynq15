@@ -33,7 +33,7 @@
     <b>開発中</b> · Làng Số — 村・街区のデジタル行政基盤<br/>
     <b>注力</b> · ツール呼び出し · RAG · OCR/STT · PIIガードレール<br/>
     <b>学習中</b> · SFIA基準のAIエンジニアリング<br/>
-    <b>募集</b> · AI Applications / AI Engineer
+    <b>希望職種</b> · AI Applications / AI Engineer
   </p>
 </td>
 </tr>
@@ -162,5 +162,5 @@
 <br/>
 
 <div align="center">
-  <sub>Built with care in Hanoi · 2026</sub>
+  <sub>ハノイより、心を込めて · 2026</sub>
 </div>
