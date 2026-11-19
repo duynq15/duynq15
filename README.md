@@ -40,7 +40,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b>Làng Số — Thôn Thông Minh</b><br/>
+  <b><a href="https://xuantrach.langso.vn">Làng Số — Thôn Thông Minh</a></b><br/>
   <sub>Nền tảng quản trị số cho thôn/tổ dân phố: hộ &amp; nhân khẩu, bản đồ số, thông báo đa kênh, khảo sát, trợ lý AI. Thí điểm tại Thôn Xuân Trạch với 412 hộ / 1.586 nhân khẩu.</sub><br/>
   <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>React</code> <code>Docker</code></sub>
 </td>
@@ -63,7 +63,7 @@
   <sub><code>FastAPI</code> <code>PostGIS</code> <code>React 19</code></sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/duynq15"><img src="assets/cover-digitization.svg" width="100%" alt="Digitization Hub" /></a>
+  <img src="assets/cover-digitization.svg" width="100%" alt="Digitization Hub" />
   <b>Digitization Hub</b><br/>
   <sub>Pipeline số hóa đa phương tiện: tách audio, STT tiếng Việt, OCR, xử lý ảnh chat Zalo, tìm kiếm toàn văn. RBAC theo bộ sưu tập và nhật ký vòng đời tư liệu.</sub><br/>
   <sub><code>Python</code> <code>Whisper</code> <code>OCR</code> <code>Laravel</code></sub>
@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/duynq15"><img src="assets/cover-giapha.svg" width="100%" alt="Gia phả Auto" /></a>
+  <img src="assets/cover-giapha.svg" width="100%" alt="Gia phả Auto" />
   <b>Gia phả Auto — ĐATN HUST</b><br/>
   <sub>Mô hình hóa phả hệ bằng đồ thị quan hệ, rule-based NLG sinh tiểu sử, dựng phả đồ SVG và pipeline 8 bước xuất sách Word/PDF.</sub><br/>
   <sub><code>Python</code> <code>FastAPI</code> <code>Laravel</code> <code>SVG</code></sub>
