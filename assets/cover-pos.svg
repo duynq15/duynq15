@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="t d">
+<title id="t">POS SHOP SAAS — Bán hàng &amp; quản lý kho đa cửa hàng</title>
+<desc id="d">NODEJS · SQLITE · VIETQR</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071423"/>
+    <stop offset=".55" stop-color="#0b1f3a"/>
+    <stop offset="1" stop-color="#0d2b40"/>
+  </linearGradient>
+  <radialGradient id="g1" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#fb923c" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#fb923c" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#c2410c" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#c2410c" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#9fd8e8" stroke-opacity=".06" stroke-width="1"/>
+  </pattern>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="640" height="300" fill="url(#bg)"/>
+<rect width="640" height="300" fill="url(#grid)"/>
+<ellipse cx="540" cy="80" rx="210" ry="170" fill="url(#g1)"/>
+<ellipse cx="420" cy="300" rx="250" ry="150" fill="url(#g2)" opacity=".5"/>
+<circle cx="620" cy="250" r="90" fill="#fb923c" opacity=".08" filter="url(#blur)"/>
+
+<g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <text x="40" y="52" fill="#fb923c" font-size="10" font-weight="700" letter-spacing="3.2">PROJECT / 05</text>
+  <rect x="40" y="64" width="34" height="2" fill="#fb923c" opacity=".85"/>
+  <text x="40" y="180" fill="#ffffff" font-size="31" font-weight="800" letter-spacing=".4">POS SHOP SAAS</text>
+  <text x="40" y="210" fill="#b9c9d9" font-size="13.5" font-weight="400">Bán hàng &amp; quản lý kho đa cửa hàng</text>
+  <text x="40" y="262" fill="#fb923c" font-size="9.5" font-weight="600" letter-spacing="1.9" font-family="'DejaVu Sans Mono', Consolas, monospace">NODEJS · SQLITE · VIETQR</text>
+</g>
+
+<g transform="translate(452 148)">
+  <circle cx="0" cy="0" r="96" fill="none" stroke="#fb923c" stroke-opacity=".18" stroke-width="1"/>
+  <circle cx="0" cy="0" r="96" fill="none" stroke="#fb923c" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 7">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+  <path d="M-46 -58 H40 L52 -46 V58 H-46 Z" fill="#0b1f3a" stroke="#fb923c" stroke-opacity=".65" stroke-width="1.5"/>
+  <path d="M40 -58 V-46 H52" fill="none" stroke="#fb923c" stroke-opacity=".65" stroke-width="1.5"/>
+  <g fill="#fb923c" opacity=".9">
+    <rect x="-34" y="-38" width="52" height="4" rx="2"/><rect x="-34" y="-26" width="34" height="4" rx="2"/>
+    <rect x="-34" y="-4" width="4" height="34" rx="1"/><rect x="-26" y="-4" width="2" height="34"/>
+    <rect x="-18" y="-4" width="5" height="34"/><rect x="-8" y="-4" width="2" height="34"/>
+    <rect x="0" y="-4" width="6" height="34"/><rect x="12" y="-4" width="2" height="34"/>
+    <rect x="20" y="-4" width="4" height="34"/><rect x="30" y="-4" width="2" height="34"/>
+  </g>
+  <g fill="none" stroke="#fb923c" stroke-width="2">
+    <path d="M-34 46 H30"/><path d="M22 40 H30 V48"/>
+  </g>
+</g>
+<text x="-62" y="82" fill="#fdba74" font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="8" letter-spacing="1">MULTI-TENANT · VIETQR</text>
+</g>
+<rect x="0" y="297" width="640" height="3" fill="#fb923c" opacity=".85"/>
+</svg>
